@@ -12,8 +12,8 @@ A few problems make those questions difficult to answer. Individuals:
 * have different learning styles
 * change their goals mid-process
 
-A good metaphor for the learning process is a (hiking, biking, or skiing)
-trail map. Individuals:
+A good metaphor for the learning process is a (hiking, biking, or skiing) trail
+map. Individuals:
 
 * start in different places
 * want to go to different places
@@ -23,21 +23,6 @@ trail map. Individuals:
 
 This repository contains trails to help designers and developers learn.
 
-Trails
-------
-
-* [CoffeeScript](/thoughtbot/trail-map/blob/master/trails/coffeescript.md)
-* [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
-* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
-* [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
-* [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
-* [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
-* [SASS](/thoughtbot/trail-map/blob/master/trails/sass.md)
-* [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
-* [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
-* [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
-
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
@@ -45,18 +30,21 @@ To use these, you may want to first set up your laptop with
 Contributing
 ------------
 
-Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/trails/CONTRIBUTING.md)
+Please see the [Contribution Guidelines](/CONTRIBUTING.md).
 
 Credits
 -------
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![thoughtbot](http://thoughtbot.com/logo.png)
 
 Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
-
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+
+Thank you, [contributors](/graphs/contributors)!
 
 License
 -------
 
-Trail Map is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+Trail Map is © 2012 thoughtbot, inc. It is free software and may be
+redistributed under the terms specified in the [Creative Commons Attribution
+License](http://creativecommons.org/licenses/by/3.0/).
